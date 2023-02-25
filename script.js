@@ -1,2 +1,1 @@
-
-let yourArray = ["string", 1, false, true, 23];
+let yourArray = ["string", 1, false, true, 23]
